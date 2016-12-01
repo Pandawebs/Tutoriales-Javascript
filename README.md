@@ -7,3 +7,7 @@ Solo nos centramos en la mejora de los artículos, en crear comunidad y animar a
 Esperamos tu ["pull request"](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/pull-request.md), ya sea al [repositorio de prácticas ](https://github.com/Pandawebs/practicasJS) como a este mismo repositorio, corrigiendo, agregando o mejorando los contenidos.
 
 ##Índice
+
+![alt](http://pandawebs.net/assets/images/logo-js.png)
+
+- [Objetos Javascript](https://github.com/Pandawebs/Tutoriales-Javascript/blob/master/articles/objetos-javascript.md)
