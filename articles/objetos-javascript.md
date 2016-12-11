@@ -47,15 +47,15 @@ console.log(persona["nombre"]);
 
 <hr>
 
-==**Nota:**==
+****Nota:****
 
-En este articulo hemos creado un sencillo "Objeto Literal". Esta manera de crear Objetos se la conoce como =="Inicializador de Objetos"==.
+En este articulo hemos creado un sencillo "Objeto Literal". Esta manera de crear Objetos se la conoce como **"Inicializador de Objetos"**.
 
 Hay 2 maneras más de crear Objetos que se profundizan en otros artículos:
 
-* Con palabra clave/keyword =="new"==. `new Object()`. [ir al artículo](#)
+* Con palabra clave/keyword **"new"**. `new Object()`. [ir al artículo](#)
 
-* Usando un ==Constructor de Objetos==. [ir al artículo](#)
+* Usando un **Constructor de Objetos**. [ir al artículo](#)
 
 <hr>
 
