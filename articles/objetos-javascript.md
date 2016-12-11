@@ -47,7 +47,7 @@ console.log(persona["nombre"]);
 
 <hr>
 
-****Nota:****
+**Nota:**
 
 En este articulo hemos creado un sencillo "Objeto Literal". Esta manera de crear Objetos se la conoce como **"Inicializador de Objetos"**.
 
