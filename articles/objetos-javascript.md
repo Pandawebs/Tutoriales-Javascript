@@ -160,4 +160,3 @@ Son aquellos Objetos suministrados por Javascript, tales como:
 [siguiente - **métodos javascript**](https://github.com/Pandawebs/Tutoriales-Javascript/blob/master/instalacion-y-configuracion-de-git.md) 
 
 [anterior - **índice**](https://github.com/Pandawebs/Tutoriales-Javascript/blob/master/README.md) 
-
