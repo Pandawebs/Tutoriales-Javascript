@@ -45,6 +45,46 @@ console.log(persona["nombre"]);
 // ver cómo Gist en Github  -->> https://gist.github.com/agustinpfs/0cf16fa98029aafb59e5314f61e7233c
 ``` 
 
+<!-- CÓDIGO DE LA CONSOLA PARA SER EJECUTADO DISPONIBLE EN WEB http://pandawebs.net/objetos-javascript/ 
+
+var persona = {  
+    nombre : "Agustin",
+    apellido : "Palmieri"
+};
+console.log(persona.nombre); 
+-->
+
+<!-- CÓDIGO DEL EJEMPLO EN PÁGINA WEB 
+(ejecutar en web)
+http://pandawebs.net/objetos-javascript/
+
+<!DOCTYPE html>
+<html>
+  <body>
+  
+    <button onclick="Mifuncion()">
+      Mi nombre y apellido ¡click aquí!!
+    </button>
+    <p id="demo"></p>
+    
+    <script>
+      var persona = {
+        nombre: "Agustin",
+        apellido: "Palmieri"
+      };
+
+      function Mifuncion() {
+        document.getElementById("demo").innerHTML =
+          " Mi nombre es " +
+          persona.nombre + " y mi apellido " + persona.apellido;
+      }
+
+    </script>
+    
+  </body>
+</html> -->
+
+
 <hr>
 
 **Nota:**
@@ -72,7 +112,18 @@ Son aquellos Objetos suministrados por Javascript, tales como:
 
 **Estos Objetos funcionan como [*Constructor de Objetos*](http://pandawebs.net/constructor-de-objetos-javascript/)**
 
+
+**Ejemplo de uso en página web y servicio para ejecutar el código en** [http://pandawebs.net/objetos-javascript/](http://pandawebs.net/objetos-javascript/)
+
 <br>
+<!--            FIRMAR COMO COLABORADOR           -->
+
+<!-- <hr>
+###Colaboradores
+
+[TU NOMBRE](TU LINK) 
+
+-->
 <br>
 
 <!-- Inicio links índice y github -->
