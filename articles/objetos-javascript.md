@@ -59,8 +59,7 @@ console.log(persona.nombre);
 
 
 
-
-<!-- CÓDIGO DE EJEMPLO EN PÁGINA WEB(JsFiddle)
+<!-- CÓDIGO DE EJEMPLO EN PÁGINA WEB(JsFiddle embebido)
 (ejecutar en web)
 http://pandawebs.net/objetos-javascript/
 
