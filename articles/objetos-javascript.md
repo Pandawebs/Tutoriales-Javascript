@@ -45,7 +45,10 @@ console.log(persona["nombre"]);
 // ver cómo Gist en Github  -->> https://gist.github.com/agustinpfs/0cf16fa98029aafb59e5314f61e7233c
 ``` 
 
-<!-- CÓDIGO DE LA CONSOLA PARA SER EJECUTADO DISPONIBLE EN WEB http://pandawebs.net/objetos-javascript/ 
+
+
+
+<!-- CÓDIGO DE LA CONSOLA PARA SER EJECUTADO DISPONIBLE EN WEB(RunKit) http://pandawebs.net/objetos-javascript/ 
 
 var persona = {  
     nombre : "Agustin",
@@ -54,7 +57,10 @@ var persona = {
 console.log(persona.nombre); 
 -->
 
-<!-- CÓDIGO DEL EJEMPLO EN PÁGINA WEB 
+
+
+
+<!-- CÓDIGO DE EJEMPLO EN PÁGINA WEB(JsFiddle)
 (ejecutar en web)
 http://pandawebs.net/objetos-javascript/
 
