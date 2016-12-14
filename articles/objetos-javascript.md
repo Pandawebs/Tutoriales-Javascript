@@ -48,7 +48,7 @@ console.log(persona["nombre"]);
 
 
 
-<!-- CÓDIGO DE LA CONSOLA PARA SER EJECUTADO DISPONIBLE EN WEB(RunKit) http://pandawebs.net/objetos-javascript/ 
+<!-- CÓDIGO DE LA CONSOLA PARA SER EJECUTADO (DISPONIBLE EN WEB - RunKit) http://pandawebs.net/objetos-javascript/ 
 
 var persona = {  
     nombre : "Agustin",
