@@ -147,10 +147,11 @@ Son aquellos Objetos suministrados por Javascript, tales como:
     <i>.</i>
   </div>
   <a href="http://pandawebs.net/metodos-javascript">
-  <div class="post-content_next-right">
-    <p>siguiente</p>
-    <span>métodos javascript</span></a>
-  </div>
+    <div class="post-content_next-right">
+        <p>siguiente</p>
+        <span>métodos javascript</span>
+    </div>
+  </a>
 </div>
 <br>
 
