@@ -139,24 +139,11 @@ Son aquellos Objetos suministrados por Javascript, tales como:
 
 <!-- Fin links índice y github -->
 
-<a class="post-content-button">Video tutorial</a>
-<hr>
-<div class="post-content_next">
-  <div style="visibility: hidden" class="post-content_next-left">
-    <a href=""></a>
-    <i>.</i>
-  </div>
-  <a href="http://pandawebs.net/metodos-javascript">
-  <div class="post-content_next-right">
-    <p>siguiente</p>
-    <span>métodos javascript</span></a>
-  </div>
-</div>
-<br>
+[Video Tutorial](#)
 
 <hr>
 
-[siguiente - **métodos javascript**](https://github.com/Pandawebs/Tutoriales-Javascript/blob/master/instalacion-y-configuracion-de-git.md) 
+[siguiente - **métodos javascript**](https://github.com/Pandawebs/Tutoriales-Javascript/blob/master/articles/metodos-javascript.md) 
 
 [anterior - **índice**](https://github.com/Pandawebs/Tutoriales-Javascript/blob/master/README.md) 
 
