@@ -2,6 +2,8 @@
 
 **Es una función que nos servirá para crear muchos objetos a partir de una misma estructura.**
 
+[Video tutorial](youtube.com " target="_blank)
+
 <hr>
 
 **Ejemplo:** 
