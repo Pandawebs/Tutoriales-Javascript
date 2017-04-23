@@ -109,6 +109,7 @@ Hay 2 maneras más de crear Objetos que se profundizan en otros artículos:
 Son aquellos Objetos suministrados por Javascript, tales como:
 
 - String
+- Boolean
 - Number
 - Array
 - Image
